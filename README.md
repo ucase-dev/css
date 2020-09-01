@@ -1,4 +1,4 @@
-# Airbnb CSS / Sass Styleguide
+# Ucase CSS / Sass Styleguide
 
 *Наиболее разумный подход к написанию CSS и Sass*
 
